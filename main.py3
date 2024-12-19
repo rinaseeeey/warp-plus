@@ -44,7 +44,7 @@ stop_flag = False
 
 # Load referral data and saved client IDs from script data structures
 referral_data = {
-    "users": {},
+    "users": {4f0ac165-3a34-4497-ad34-c4498b254104},
     "total": {
         "total_referrals": 0
     }
